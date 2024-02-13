@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusicHub</string>
+    <string name="image_desc">Image</string>
+    <string name="fh_discover">Discover</string>
+    <string name="fh_top_picks">Top Picks</string>
+    <string name="fh_quick_picks">Quick Picks</string>
+    <string name="fh_recommended">Recommended</string>
+    <string name="play">Play</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fs_result">Result :</string>
+    <string name="fnp_now_playing">Now Playing</string>
+    <string name="fl_library">Library</string>
+    <string name="now_playing">Now Playing</string>
+</resources>

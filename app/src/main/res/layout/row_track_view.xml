@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/rtvTrackIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@color/black"
+        android:layout_column="0"
+        android:layout_row="0"
+        android:layout_rowSpan="2"
+        android:contentDescription="@string/image_desc"/>
+
+    <TextView
+        android:id="@+id/rtvTrackTitleTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_columnWeight="2"
+        android:layout_row="0"
+        android:layout_rowWeight="1"
+        android:gravity="bottom"
+        android:textColor="@color/black"
+        android:textSize="13sp"
+        android:layout_marginStart="15dp"
+        android:fontFamily="@font/roboto_regular"
+        />
+
+    <TextView
+        android:id="@+id/rtvTrackSingerTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mankirt Aulhakh"
+        android:layout_column="1"
+        android:layout_row="1"
+        android:layout_columnWeight="2"
+        android:layout_rowWeight="1"
+        android:textSize="11sp"
+        android:textColor="@color/graphite"
+        android:gravity="top"
+        android:layout_marginStart="15dp"
+        android:fontFamily="@font/poppins_regular"
+        />
+
+    <ImageButton
+        android:id="@+id/rtvAddToPlaylistIB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/image_desc"
+        android:src="@drawable/add_icon"
+        android:background="@android:color/transparent"
+        android:layout_column="2"
+        android:layout_row="0"
+        android:layout_columnWeight="1"
+        android:layout_rowSpan="2"
+        android:layout_gravity="center_vertical|end"
+        />
+
+
+
+</GridLayout>

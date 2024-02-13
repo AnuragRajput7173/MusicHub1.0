@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0F101A</color>
+    <color name="white">#FEFEFF</color>
+    <color name="graphite">#9A9A9A</color>
+    <color name="hard_pink">#D24E50</color>
+    <color name="fh_play_btn_pressed_color">#9C2C2E</color>
+    <color name="graphite_alpha_30">#4d9A9A9A</color>
+    <color name="hard_pink_alpha_30">#4DD24E50</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497262915356",
+    "project_id": "musichub-35de6",
+    "storage_bucket": "musichub-35de6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497262915356:android:8f59a84584ba8d3e86d4d9",
+        "android_client_info": {
+          "package_name": "developer.anurag.musichub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzfbRjXi5s8KVz7oU5P_5itff2ZMR2JDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
